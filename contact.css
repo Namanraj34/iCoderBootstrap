@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+/* CSS Variables */
+:root{
+    --navbar-height: 59px;
+}
+body{
+    background-color: rgb(96, 101, 105);
+}
+
+.form-label{
+    font-weight: bold;
+
+}
+#exampleFormControlInput1{
+    width: 50%;
+    border-radius: 40px 10px;
+}
+
+.form-select{
+    width: 50%;
+    border-radius: 40px 15px;
+}
+
+.form-group{
+    font-weight: bold;
+}
+#exampleFormControlTextarea1{
+    border-radius: 40px 15px;
+    width: 50%;
+}
+
+#exampleFormControlTextarea2{
+    border-radius: 40px 15px;
+    width: 50%;
+}
+.btn{
+    border-radius: 15px 40px;
+}

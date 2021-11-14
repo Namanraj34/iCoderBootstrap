@@ -10,8 +10,9 @@ html{
     --navbar-height: 59px;
 }
 body{
-    background-color: rgb(194, 212, 228);
+    background-color: skyblue;
 }
+
 .btn{
     border-radius: 15px 40px;
 }

@@ -16,3 +16,8 @@ body{
 .btn{
     border-radius: 15px 40px;
 }
+
+h2{
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.32);
+    cursor: grab;
+}
